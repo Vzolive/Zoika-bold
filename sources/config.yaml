@@ -1,7 +1,5 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - Zoika_display.otf
 axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - bold
+familyName: Zoika
