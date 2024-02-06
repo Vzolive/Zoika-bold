@@ -20,12 +20,12 @@ Zoika Bold is a captivating display font designed to add sophistication and luxu
 
 Whether you're working on branding, prints, headlines, or event invitations, Zoika Bold stands out with its unique and classy aesthetic. Explore the bold and sophisticated characteristics that set Zoika Bold apart, creating a lasting visual impact in every design. Contribute to the ongoing development of Zoika Bold by visiting the GitHub repository.
 
-![Sample Image](documentation/zoika%20(1).png)
-![Sample Image](documentation/zoika%20(2).png)
-![Sample Image](documentation/zoika%20(3).png)
-![Sample Image](documentation/zoika%20(4).png)
-![Sample Image](documentation/zoika%20(5).png)
-![Sample Image](documentation/zoika%20(6).png)
+![Sample Image](documentation/zoika(1).png)
+![Sample Image](documentation/zoika(2).png)
+![Sample Image](documentation/zoika(3).png)
+![Sample Image](documentation/zoika(4).png)
+![Sample Image](documentation/zoika(5).png)
+![Sample Image](documentation/zoika(6).png)
 
 
 ## About
