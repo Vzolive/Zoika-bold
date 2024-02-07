@@ -147,3 +147,21 @@ feature kern {
      language dflt ;
       lookup kernKerningHorizontallookup0;
 } kern;
+
+@GDEF_Simple = [\less \greater \bracketleft \bracketright \braceright \bar 
+	\section \yen \copyright \registered \degree \cent \guillemotleft 
+	\guillemotright \divide \multiply \Aogonek \aogonek \Aring \aring \Thorn 
+	\germandbls \thorn \asterisk \uring \Uogonek \uogonek \uhungarumlaut 
+	\Uhungarumlaut \Scedilla \scedilla \uni0162 \uni0163 \Lslash \lslash \Iogonek 
+	\iogonek \uni013C \uni0157 \ydieresis \quotesingle \ordmasculine \sterling 
+	\macron \exclamdown \cedilla \paragraph \periodcentered \plusminus \uni00AD 
+	\brokenbar \ampersand \Euro \uni02C2 \uni02C3 \uni02C4 \uni02C5 \uni02CA 
+	\uni02CB \ordfeminine \logicalnot \uni02C8 \uni02CC \uni02CE \uni02CF 
+	\hungarumlaut \uni02DE \uni02E2 \uni02F1 \uni02F2 \uni02F7 \Tbar \tbar 
+	\underscore ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

@@ -1,33 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Uring" format="2">
+<glyph name="Uogonek" format="2">
   <advance width="550"/>
-  <unicode hex="016E"/>
+  <unicode hex="0172"/>
   <outline>
     <contour>
-      <point x="339" y="700" type="curve" smooth="yes"/>
-      <point x="339" y="682.667"/>
-      <point x="333" y="668"/>
-      <point x="321" y="656" type="curve" smooth="yes"/>
-      <point x="309" y="644"/>
-      <point x="294.333" y="638"/>
-      <point x="277" y="638" type="curve" smooth="yes"/>
-      <point x="259.667" y="638"/>
-      <point x="245" y="644"/>
-      <point x="233" y="656" type="curve" smooth="yes"/>
-      <point x="221" y="668"/>
-      <point x="215" y="682.667"/>
-      <point x="215" y="700" type="curve" smooth="yes"/>
-      <point x="215" y="717.333"/>
-      <point x="221" y="732"/>
-      <point x="233" y="744" type="curve" smooth="yes"/>
-      <point x="245" y="756"/>
-      <point x="259.667" y="762"/>
-      <point x="277" y="762" type="curve" smooth="yes"/>
-      <point x="294.333" y="762"/>
-      <point x="309" y="756"/>
-      <point x="321" y="744" type="curve" smooth="yes"/>
-      <point x="333" y="732"/>
-      <point x="339" y="717.333"/>
+      <point x="359.497" y="-62.5" type="curve" smooth="yes"/>
+      <point x="357.497" y="-53.167"/>
+      <point x="355.001" y="-44.6699"/>
+      <point x="352.001" y="-37.0029" type="curve" smooth="yes"/>
+      <point x="349.001" y="-29.3359"/>
+      <point x="346.501" y="-25.1689"/>
+      <point x="344.501" y="-24.502" type="curve" smooth="yes"/>
+      <point x="342.501" y="-23.835"/>
+      <point x="341.501" y="-28.168"/>
+      <point x="341.501" y="-37.501" type="curve" smooth="yes"/>
+      <point x="341.501" y="-46.834"/>
+      <point x="343.501" y="-63.834"/>
+      <point x="347.501" y="-88.501" type="curve" smooth="yes"/>
+      <point x="351.501" y="-113.168"/>
+      <point x="357.001" y="-133.668"/>
+      <point x="364.001" y="-150.001" type="curve" smooth="yes"/>
+      <point x="371.001" y="-166.334"/>
+      <point x="378.668" y="-179.667"/>
+      <point x="387.001" y="-190" type="curve" smooth="yes"/>
+      <point x="395.334" y="-200.333"/>
+      <point x="403.667" y="-208"/>
+      <point x="412" y="-213" type="curve" smooth="yes"/>
+      <point x="420.333" y="-218"/>
+      <point x="428.166" y="-221.5"/>
+      <point x="435.499" y="-223.5" type="curve" smooth="yes"/>
+      <point x="441.499" y="-225.5"/>
+      <point x="446.832" y="-226.5"/>
+      <point x="451.499" y="-226.5" type="curve" smooth="yes"/>
+      <point x="461.499" y="-226.5" type="line" smooth="yes"/>
+      <point x="462.832" y="-226.5"/>
+      <point x="464.332" y="-226.333"/>
+      <point x="465.999" y="-226" type="curve" smooth="yes"/>
+      <point x="467.666" y="-225.667"/>
+      <point x="469.166" y="-225.5"/>
+      <point x="470.499" y="-225.5" type="curve" smooth="yes"/>
+      <point x="485.832" y="-222.833"/>
+      <point x="498.165" y="-215"/>
+      <point x="507.498" y="-202" type="curve" smooth="yes"/>
+      <point x="516.831" y="-189"/>
+      <point x="520.164" y="-174.5"/>
+      <point x="517.497" y="-158.5" type="curve" smooth="yes"/>
+      <point x="514.83" y="-142.5"/>
+      <point x="506.997" y="-129.833"/>
+      <point x="493.997" y="-120.5" type="curve" smooth="yes"/>
+      <point x="480.997" y="-111.167"/>
+      <point x="466.497" y="-108.167"/>
+      <point x="450.497" y="-111.5" type="curve" smooth="yes"/>
+      <point x="440.497" y="-112.5" type="line"/>
+      <point x="430.497" y="-114.5" type="line" smooth="yes"/>
+      <point x="423.83" y="-115.833"/>
+      <point x="419.163" y="-116.5"/>
+      <point x="416.496" y="-116.5" type="curve" smooth="yes"/>
+      <point x="406.496" y="-115.167"/>
+      <point x="395.329" y="-110.667"/>
+      <point x="382.996" y="-103" type="curve" smooth="yes"/>
+      <point x="370.663" y="-95.333"/>
+      <point x="362.83" y="-81.833"/>
     </contour>
     <contour>
       <point x="530" y="617" type="curve" smooth="yes"/>
